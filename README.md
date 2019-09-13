@@ -1,6 +1,5 @@
 # zk-lock
 [toc]
-![image](https://www.yinxiang.com/blog/wp-content/uploads/2018/07/%E5%94%AE%E7%A5%A8%E5%BE%AE%E4%BF%A1%E5%B0%81%E9%9D%A22.png)
 # 锁
 **进程内的线程并发，JVM锁(JDK的锁)就能解决**
 
